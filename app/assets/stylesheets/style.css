@@ -234,7 +234,7 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(giraffe.jpg) no-repeat center top;
+	background: url(alena3.jpg) no-repeat center top;
 	margin-top: 60px;
 	padding-top:120px;
 	text-align:center;
@@ -306,6 +306,7 @@ h1, h2, h3, h4, h5, h6 {
 #aboutwrap {
 	margin-top: 20px;
 	margin-bottom: 10px;
+	/*background-color: #BBFFFF;*/
 }
 
 .name {
@@ -350,9 +351,9 @@ h1, h2, h3, h4, h5, h6 {
 	height: 450px;
 	position: relative;
 }*/
-.about {
-	background-image: url(../img/about-sep.jpg);
-}
+/*.about {
+	background-color: #BBFFFF;
+}*/
 
 /* Portfolio Wrap Section */
 #portfoliowrap {
